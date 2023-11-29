@@ -33,6 +33,12 @@
 
 "Выполнение задания представлено на скриншотах ниже":
 
+![Снимок42](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/67973403-880f-42ad-8c82-b88c50f04a25)
+
+![Снимок43](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/a56a4228-17fd-41d5-83ac-d5eb9c1e3368)
+
+![Снимок44](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/86ed3555-b336-453a-9956-e690660abc23)
+
 ---
 
 
