@@ -38,7 +38,7 @@
 ![Снимок43](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/a56a4228-17fd-41d5-83ac-d5eb9c1e3368)
 
 ![Снимок44](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/86ed3555-b336-453a-9956-e690660abc23)
-Файл PKT  
+Файл PKT (https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/blob/main/hsrp_advanced_makdi_dz1.pkt).
 
 ---
 
