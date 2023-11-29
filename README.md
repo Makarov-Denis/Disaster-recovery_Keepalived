@@ -39,6 +39,8 @@
 
 ![Снимок44](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/86ed3555-b336-453a-9956-e690660abc23)
 
+Файл PKT 
+
 ---
 
 
