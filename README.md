@@ -45,7 +45,7 @@
 
 ### Задание 2
 
-- Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного [файла] (https://github.com/netology-code/sflt-homeworks/blob/main/1/keepalived-simple.conf).
+- Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного [файла](https://github.com/netology-code/sflt-homeworks/blob/main/1/keepalived-simple.conf).
 
 
 
