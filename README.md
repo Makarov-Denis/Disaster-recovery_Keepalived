@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `[Схема](https://github.com/netology-code/sflt-homeworks/blob/main/1.md#:~:text=%D0%94%D0%B0%D0%BD%D0%B0-,%D1%81%D1%85%D0%B5%D0%BC%D0%B0,-%D0%B4%D0%BB%D1%8F%20Cisco%20Packet).`
+1. `[Схема](https://github.com/netology-code/sflt-homeworks/blob/main/1.md#:~:text=%D0%94%D0%B0%D0%BD%D0%B0-,%D1%81%D1%85%D0%B5%D0%BC%D0%B0,-%D0%B4%D0%BB%D1%8F%20Cisco%20Packet)`
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
