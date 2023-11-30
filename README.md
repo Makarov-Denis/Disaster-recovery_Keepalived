@@ -67,6 +67,11 @@ fi
 
 Файл конфига(https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/blob/main/keepalived.conf)
 
+![Снимок47](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/assets/148921246/c65887d5-50e7-4954-b858-e7861b6dd085)
+
+
+
+
 ---
 
 ### Задание 3
