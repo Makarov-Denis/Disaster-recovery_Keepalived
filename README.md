@@ -65,7 +65,7 @@ else
 fi
 
 
-[Файл конфига](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/blob/main/keepalived.conf).
+[Файл конфига](https://github.com/Makarov-Denis/Disaster-recovery_Keepalived/blob/main/keepalived.conf)
 
 ---
 
